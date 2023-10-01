@@ -4,8 +4,8 @@
 }
 body{
     display: flex;
-    justify-content: center;
-    align-items: center;
+    justify-content: flex-end;
+    align-items: flex-end;
     background-image: url(p1.jpg);
     background-repeat: no-repeat;
     position: relative;
